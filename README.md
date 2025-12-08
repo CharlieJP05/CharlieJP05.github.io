@@ -1,3 +1,3 @@
 # Resume
 text
-[[resume.md]]
+[[https://charliejp05.github.io/resume]]
