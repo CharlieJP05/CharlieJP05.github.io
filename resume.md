@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Resume"
+permalink: /resume
+---
+
 # Charlie Parker
 07761047785
 charliejparker05@gmail.com
