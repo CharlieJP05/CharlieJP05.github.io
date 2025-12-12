@@ -29,7 +29,9 @@ Computer Science - C
 Finance(AS Level) - AS Level
 
 ## Work Experience
-N/A - to fill out
+Forest School Leading - 
+Contracting work realising flowcharts for a product
+Contracting work for assembling a product for use in parcel warehouses
 
 ## Practical Skills
 Programming - Python, C
