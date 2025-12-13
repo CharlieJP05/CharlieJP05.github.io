@@ -53,9 +53,10 @@ TEFL Course Passed
 - Git/Github
 
 ## Interests
-Like to do practice in programming by building up codebases for small games or programs such as API tools.
-Build basic robots with friends from basic parts and 3D printed materials.
-Like to do a lot of 3D printing as it is a great way to get my ideas realised fast.
+I enjoy practicing programming by building up codebases for small games or programs such as API tools.
+Build robots with friends from basic parts and 3D printed materials.
+I like to do a lot of 3D printing as it is a great way to get my ideas realised fast.
+I enjoy lots to do with space
 
 ## Transferable Skills
 Problem solver, Practical, Logical, Observant, Natural leader, Creative, Decisive, Imaginative
