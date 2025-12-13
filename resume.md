@@ -32,10 +32,12 @@ TEFL Course Passed
 - Bebras - first in school at bebras competition
 - Aberystwyth Computer Science Entrance Exam - Pass, unconditional offer
 - Robotics Club - FIRST lego league, won some trophies as a group whilst leading, Won regionals and passed on to the final round of the nationals
+
 ## Extracurricular
 - Robotics club, KS3-4, participated in regional and national events
 - Robotics club, Alevel - ran the club for the younger years and took them to the events
 - Inventors Club - Helped to lead the club 9-14 year olds in basic engineering skills
+
 ## Work Experience
 Forest School Leading - 
 Contracting work realising flowcharts for a product.
@@ -57,7 +59,6 @@ Like to do a lot of 3D printing as it is a great way to get my ideas realised fa
 ## Transferable Skills
 Problem solver, Practical, Logical, Observant, Natural leader, Creative, Decisive, Imaginative
 
-Like to do a lot of 3D printing as it is a great way to get my ideas realised fast.
 
 ## Transferable Skills
 Problem solver, Practical, Logical, Observant, Natural leader, Creative, Decisive, Imaginative
