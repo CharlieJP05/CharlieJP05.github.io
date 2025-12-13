@@ -1,3 +1,6 @@
+# About me
+stuff bout me
+# What im doing
+stuff here
 # Resume
-text
 [Resume](resume.md)
