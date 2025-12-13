@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Charlie Parker"
-permalink: /main
+permalink: /
 ---
 # About me
 stuff bout me
