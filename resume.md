@@ -35,21 +35,22 @@ TEFL Course Passed
 
 ## Extracurricular
 - Robotics Club, KS3-4, participated in regional and national events
-- Robotics Club, A-Level - ran the club for the younger years and supervised the events
+- Robotics Club, A-Level - ran the club for the younger years and supervised them at the events
 - Inventors Club - Helped to lead the club 9-14 year olds in basic engineering skills
 
 ## Work Experience
-Forest School Leading - 
-Contracting work realising flowcharts for a product.
-Contracting work for assembling a product for use in parcel warehouses.
-Machine Vision Quality System for Amazon Robitics Shelving Units
+- Forest School Leading - 
+- Contracting work realising flowcharts for a product.
+- Contracting work for assembling a product for use in parcel warehouses.
+- Machine Vision Quality System for Amazon Robitics Shelving Units
+
 ## Practical Skills
-Programming - Python, C
-Engineering software - MATLAB, Quartus, STM32
-3D Design
-3D Printing
-Linux
-Git/Github
+-  Programming - Python, C
+- Engineering software - MATLAB, Quartus, STM32
+- 3D Design
+- 3D Printing
+- Linux
+- Git/Github
 
 ## Interests
 Like to do practice in programming by building up codebases for small games or programs such as API tools.
@@ -58,6 +59,5 @@ Like to do a lot of 3D printing as it is a great way to get my ideas realised fa
 
 ## Transferable Skills
 Problem solver, Practical, Logical, Observant, Natural leader, Creative, Decisive, Imaginative
-
 
 [Back](README.md)
