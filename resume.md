@@ -29,13 +29,13 @@ Finance - AS-Level
 
 TEFL Course Passed
 ## Achievements
-- Bebras - first in school at bebras competition
-- Aberystwyth Computer Science Entrance Exam - Pass, unconditional offer
-- Robotics Club - FIRST lego league, won some trophies as a group whilst leading, Won regionals and passed on to the final round of the nationals
+- Bebras - Best in school in Bebras competition
+- Aberystwyth Computer Science Entrance Exam - Pass resulting in unconditional offer
+- Robotics Club - FIRST lego league, won trophies as a group whilst leading, won regionals and passed on to the final round of the nationals
 
 ## Extracurricular
-- Robotics club, KS3-4, participated in regional and national events
-- Robotics club, Alevel - ran the club for the younger years and took them to the events
+- Robotics Club, KS3-4, participated in regional and national events
+- Robotics Club, A-Level - ran the club for the younger years and supervised the events
 - Inventors Club - Helped to lead the club 9-14 year olds in basic engineering skills
 
 ## Work Experience
@@ -55,10 +55,6 @@ Git/Github
 Like to do practice in programming by building up codebases for small games or programs such as API tools.
 Build basic robots with friends from basic parts and 3D printed materials.
 Like to do a lot of 3D printing as it is a great way to get my ideas realised fast.
-
-## Transferable Skills
-Problem solver, Practical, Logical, Observant, Natural leader, Creative, Decisive, Imaginative
-
 
 ## Transferable Skills
 Problem solver, Practical, Logical, Observant, Natural leader, Creative, Decisive, Imaginative
