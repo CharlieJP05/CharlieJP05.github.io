@@ -3,7 +3,7 @@ layout: default
 title: "Resume"
 permalink: /resume
 ---
-[Back](README.md)
+[Back](index.md)
 # Charlie Parker
 07761047785
 charliejparker05@gmail.com
@@ -61,4 +61,4 @@ I enjoy lots to do with space
 ## Transferable Skills
 Problem solver, Practical, Logical, Observant, Natural leader, Creative, Decisive, Imaginative
 
-[Back](README.md)
+[Back](index.md)
