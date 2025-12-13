@@ -15,24 +15,32 @@ I thoroughly enjoy designing and building things to fulfil a purpose and spend l
 I have learnt many skills throughout my university degree and time running and participating in a KS3 Robotics club that participated in many events.
 
 ## Education
-University of the West of England
+### University of the West of England
 Bsc Robotics
 Sep 2024 - Mar 2028
 
-
-Malmesbury Sixth Form
-Alevel
+### Malmesbury Sixth Form
+A-Level
 Sep 2022 - Jul 2024
-Maths - C
+Computer Science - B
 Physics - B
-Computer Science - C
-Finance(AS Level) - AS Level
+Maths - C
+Finance - AS-Level
 
+TEFL Course Passed
+## Achievements
+- Bebras - first in school at bebras competition
+- Aberystwyth Computer Science Entrance Exam - Pass, unconditional offer
+- Robotics Club - FIRST lego league, won some trophies as a group whilst leading, Won regionals and passed on to the final round of the nationals
+## Extracurricular
+- Robotics club, KS3-4, participated in regional and national events
+- Robotics club, Alevel - ran the club for the younger years and took them to the events
+- Inventors Club - Helped to lead the club 9-14 year olds in basic engineering skills
 ## Work Experience
 Forest School Leading - 
-Contracting work realising flowcharts for a product
-Contracting work for assembling a product for use in parcel warehouses
-
+Contracting work realising flowcharts for a product.
+Contracting work for assembling a product for use in parcel warehouses.
+Machine Vision Quality System for Amazon Robitics Shelving Units
 ## Practical Skills
 Programming - Python, C
 Engineering software - MATLAB, Quartus, STM32
@@ -44,6 +52,11 @@ Git/Github
 ## Interests
 Like to do practice in programming by building up codebases for small games or programs such as API tools.
 Build basic robots with friends from basic parts and 3D printed materials.
+Like to do a lot of 3D printing as it is a great way to get my ideas realised fast.
+
+## Transferable Skills
+Problem solver, Practical, Logical, Observant, Natural leader, Creative, Decisive, Imaginative
+
 Like to do a lot of 3D printing as it is a great way to get my ideas realised fast.
 
 ## Transferable Skills
