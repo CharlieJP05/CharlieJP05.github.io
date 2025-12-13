@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Charlie Parker"
+---
 # About me
 stuff bout me
 # What im doing
