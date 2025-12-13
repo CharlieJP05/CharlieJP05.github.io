@@ -5,7 +5,7 @@ permalink: /resume
 ---
 
 # Charlie Parker
-07761047785\n
+07761047785
 charliejparker05@gmail.com
 https://charliejp05.github.io/
 
