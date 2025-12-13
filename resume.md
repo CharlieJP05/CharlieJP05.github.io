@@ -58,4 +58,6 @@ Like to do a lot of 3D printing as it is a great way to get my ideas realised fa
 
 ## Transferable Skills
 Problem solver, Practical, Logical, Observant, Natural leader, Creative, Decisive, Imaginative
+
+
 [Back](README.md)
